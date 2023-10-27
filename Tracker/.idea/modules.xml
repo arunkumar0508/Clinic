@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tracker/APIGateWay/APIGateWay.iml" filepath="$PROJECT_DIR$/Tracker/APIGateWay/APIGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tracker/Doctor/Doctor.iml" filepath="$PROJECT_DIR$/Tracker/Doctor/Doctor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tracker/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/Tracker/Eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tracker/Hospital/Hospital.iml" filepath="$PROJECT_DIR$/Tracker/Hospital/Hospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tracker/Tracker.iml" filepath="$PROJECT_DIR$/Tracker/Tracker.iml" />
+    </modules>
+  </component>
+</project>
